@@ -1,0 +1,11 @@
+Sl No,Name,Gender,Cabin,Age,Fare Type,Survived
+1,A,Male,Upper ,24,Business,Yes
+2,B,Female,Lower,30,Premium,Yes
+3,C,Male,Middle,35,Economy,No
+4,D,Male,Upper ,43,Business,Yes
+5,E,Male,Lower,27,Premium,No
+6,F,Female,Middle,37,Economy,No
+7,G,Female,Upper ,53,Business,No
+8,H,Female,Lower,21,Premium,Yes
+9,I,Male,Middle,60,Economy,Yes
+10,J,Male,Lower,34,Economy,Yes
